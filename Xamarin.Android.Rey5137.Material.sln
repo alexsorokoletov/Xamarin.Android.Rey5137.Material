@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rey5137.Material", "Rey5137.Material\Rey5137.Material.csproj", "{EC42FC1B-D1BD-4D1B-8B5D-ECB62E7CEFCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Store|Any CPU = Store|Any CPU
+		Staging|Any CPU = Staging|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC42FC1B-D1BD-4D1B-8B5D-ECB62E7CEFCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC42FC1B-D1BD-4D1B-8B5D-ECB62E7CEFCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC42FC1B-D1BD-4D1B-8B5D-ECB62E7CEFCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC42FC1B-D1BD-4D1B-8B5D-ECB62E7CEFCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
