@@ -1,11 +1,11 @@
 <?xml version="1.0"?>
 <package >
     <metadata>
-        <id>DT.Xamarin.Rey5137Material</id>
+        <id>Xamarin.Rey5137Material</id>
         <version>1.3.0</version>
         <title>Xamarin.Android bindings for Rey5137 Material https://github.com/rey5137/material</title>
-        <authors>Alex Sorokoletov</authors>
-        <owners>Alex Sorokoletov</owners>
+        <authors>DreamTeam Mobile</authors>
+        <owners>AlexSorokoletov, a.strakh, dreamteammobile</owners>
         <projectUrl>https://github.com/alexsorokoletov/Xamarin.Android.Rey5137.Material</projectUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>A library to bring fully animated Material Design components to pre-Lolipop Android. http://rey5137.com/material/ </description>
