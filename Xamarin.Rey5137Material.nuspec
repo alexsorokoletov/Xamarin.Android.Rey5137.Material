@@ -2,7 +2,7 @@
 <package >
     <metadata>
         <id>Xamarin.Rey5137Material</id>
-        <version>1.3.0</version>
+        <version>1.3.0.2</version>
         <title>Xamarin.Android bindings for Rey5137 Material https://github.com/rey5137/material</title>
         <authors>DreamTeam Mobile</authors>
         <owners>AlexSorokoletov, a.strakh, dreamteammobile</owners>
